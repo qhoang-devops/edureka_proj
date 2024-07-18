@@ -1,0 +1,7 @@
+1. config file to connect to the k8s cluster
+".kube/config" --> on jenkins server -> /var/lib/jenkins/.kube/config
+
+2. kubectl to be installed on jenkins server or kubctl plugin installed on 
+jenkins
+
+3. write yaml file to deploy app and service yaml file
